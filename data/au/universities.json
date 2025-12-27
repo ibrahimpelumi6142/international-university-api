@@ -1,0 +1,58 @@
+[
+  {
+    "code": "university_tasmania",
+    "name": "University of Tasmania",
+    "region": "Tasmania",
+    "website": "https://www.utas.edu.au",
+    "entry_paths": {
+      "waec": true,
+      "neco": true,
+      "hnd": true,
+      "alevel": true
+    },
+    "international_fee_band": "low",
+    "courses": [
+      {
+        "name": "Computer Science",
+        "level": "bachelor"
+      },
+      {
+        "name": "Engineering",
+        "level": "bachelor"
+      },
+      {
+        "name": "Business Administration",
+        "level": "bachelor"
+      }
+    ],
+    "notes": "Regional university with automatic 25% scholarship for all international students"
+  },
+  {
+    "code": "university_melbourne",
+    "name": "University of Melbourne",
+    "region": "Victoria",
+    "website": "https://www.unimelb.edu.au",
+    "entry_paths": {
+      "waec": true,
+      "neco": true,
+      "hnd": false,
+      "alevel": true
+    },
+    "international_fee_band": "high",
+    "courses": [
+      {
+        "name": "Computer Science",
+        "level": "bachelor"
+      },
+      {
+        "name": "Engineering",
+        "level": "bachelor"
+      },
+      {
+        "name": "Data Science",
+        "level": "masters"
+      }
+    ],
+    "notes": "Group of Eight university, ranked in top 50 globally"
+  }
+]
