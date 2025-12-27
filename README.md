@@ -3,7 +3,7 @@
 > Professional university data API for international students across UK, USA, Canada, and Australia.
 
 [![API Status](https://img.shields.io/badge/API-Live-success)](https://api.worqnow.ai/health)
-[![Universities](https://img.shields.io/badge/Universities-196-blue)](https://api.worqnow.ai/info)
+[![Universities](https://img.shields.io/badge/Universities-200+-blue)](https://api.worqnow.ai/info)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 **Live API:** https://api.worqnow.ai  
@@ -56,7 +56,7 @@ for uni in data['data']:
 | 🇦🇺 Australia | 51 | **UNLIMITED work hours** • 2-6 years post-study visa |
 | 🇨🇦 Canada | 50 | **Most affordable** (CAD $11K+) • 3-year PGWP |
 | 🇺🇸 USA | 55 | **36 months STEM OPT** • World-class programs |
-| 🇬🇧 UK | 40 | **3-year bachelor's** • 2-year Graduate Route |
+| 🇬🇧 UK | 53 | **3-year bachelor's** • 2-year Graduate Route |
 
 ---
 
