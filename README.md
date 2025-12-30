@@ -57,7 +57,9 @@ for uni in data['data']:
 | 🇨🇦 Canada | 50 | **Most affordable** (CAD $11K+) • 3-year PGWP |
 | 🇺🇸 USA | 55 | **36 months STEM OPT** • World-class programs |
 | 🇬🇧 UK | 53 | **3-year bachelor's** • 2-year Graduate Route |
-
+| 🇩🇪 Germany | 50 | **💰 FREE Tuition (€0)!** • 18-Month Post-Study Visa |
+| 🇳🇱 Netherlands | 42 | **🚴 2,100+ English** • Programs! FREE Public Transport! |
+| 🇮🇪 Ireland | 15 | **Access + English!** • 2-Year Post-Study Visa |
 ---
 
 ## 📡 API Endpoints
