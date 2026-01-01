@@ -50,7 +50,7 @@
 
 ## ✅ Done!
 
-**Your repository:** `https://github.com/YOUR_USERNAME/international-university-api`
+**Your repository:** `https://github.com/ibrahimpelumi6142/international-university-api`
 
 ---
 
