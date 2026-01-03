@@ -76,7 +76,7 @@ mkdir examples/php
 ## 🐛 Reporting Bugs
 
 Found incorrect data or API issues?  
-[Open an issue](https://github.com/international-university-api/issues)
+[Open an issue](https://github.com/ibrahimpelumi6142/international-university-api/issues)
 
 Include:
 - What's wrong
