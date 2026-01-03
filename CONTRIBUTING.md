@@ -20,7 +20,7 @@ Thank you for your interest in contributing!
 ```bash
 # 1. Fork the repository on GitHub
 # 2. Clone your fork
-git clone https://github.com/YOUR_USERNAME/international-university-api.git
+git clone https://github.com/ibrahimpelumi6142/international-university-api.git
 
 # 3. Create a branch
 git checkout -b add-new-university
