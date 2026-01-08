@@ -203,7 +203,7 @@ international-university-api/
 
 ## 📞 Support
 
-- **Issues:** [GitHub Issues](https://github.com/worqnow/international-university-api/issues)
+- **Issues:** [GitHub Issues](https://github.com/ibrahimpelumi6142/international-university-api/issues)
 - **Email:** support@worqnow.ai
 - **Documentation:** https://api.worqnow.ai/docs
 
